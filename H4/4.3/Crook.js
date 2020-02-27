@@ -51,7 +51,7 @@ slideholder3.addEventListener("click", function () {
 
 });
 
-function getfacemid() {
+function getfacemid()   {
     if (teller >= plaatjes.length) {
         teller = 1;
     } else {

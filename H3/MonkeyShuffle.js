@@ -16,9 +16,3 @@ random = 0;
         plaatjes[plaatje].src = "img/gorilla" + randNumbers[random] + ".jfif";
         random++;
     }
-
-    /*/ for (var i = 0; i <plaatjes.length; i++) {
-    random = Math.floor(Math.random() *9) +1;
-    plaatjes[i].src = "img/tijger" + rsndom + ".jfif";
-    }
-     */
