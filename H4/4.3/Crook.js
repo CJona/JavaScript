@@ -42,7 +42,7 @@ function getfacemid() {
 
 
 var plaatjes = [1,2,3];
-var teller = 0
+var teller = 0;
 var slideholder3 = document.getElementById("slideholder3");
 slideholder3.style.backgroundImage = "url('img/gezichtonder1.jpg')";
 
